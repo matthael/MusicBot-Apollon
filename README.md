@@ -7,7 +7,7 @@ Bot de musica para o discord nomeado de "Apollon".
  * Discord.js
  * Javascript
 
-### Dependências globais
+## Dependências globais
 
 Você precisa ter instalado as dependencias:
 
