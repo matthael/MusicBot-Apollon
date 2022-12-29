@@ -24,7 +24,7 @@ npm install
 Para rodar o projeto localmente, basta rodar o comando abaixo:
 
 ```bash
-npm run dev
+node .
 ```
 
 # Autor
