@@ -6,11 +6,20 @@
     ],
     "NODES": [
         {
-            "name": "NODE-1",
-            "host": "node1.kartadharta.xyz",
-            "port": 443,
-            "password": "kdlavalink",
-            "secure": true
+            "name":"Asia",
+            "host":"lava1.horizxon.studio",
+            "port":80,
+            "password":"horizxon.studio",
+            "regions": ["hongkong", "russia", "rotterdam", "singapore","southafrica","sydney"],
+            "secure":false
+        },
+        {
+            "name":"EUROPE",
+            "host":"lava3.horizxon.studio",
+            "port":80,
+            "password":"horizxon.studio",
+            "regions": ["rotterdam", "singapore","southafrica","sydney"],
+            "secure":false
         }
     ],
     "SPOTIFY": {
