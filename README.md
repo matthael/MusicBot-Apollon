@@ -47,7 +47,7 @@ Você precisa ter instalado as dependencias:
 
 - Node.js LTS v16 (ou qualquer versão superior)
 
-#### Comandos locais
+### Comandos locais
 
 Não se esqueça de instalar as dependências locais do projeto:
 
