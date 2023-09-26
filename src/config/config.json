@@ -1,29 +1,25 @@
 {
-    "TOKEN": "#",
-    "CLIENTID": "#",
-    "OWNER": [
-        "#"
-    ],
-    "NODES": [
-        {
-            "name":"Asia",
-            "host":"lava1.horizxon.studio",
-            "port":80,
-            "password":"horizxon.studio",
-            "regions": ["hongkong", "russia", "rotterdam", "singapore","southafrica","sydney"],
-            "secure":false
-        },
-        {
-            "name":"EUROPE",
-            "host":"lava3.horizxon.studio",
-            "port":80,
-            "password":"horizxon.studio",
-            "regions": ["rotterdam", "singapore","southafrica","sydney"],
-            "secure":false
-        }
-    ],
-    "SPOTIFY": {
-        "clientID": "cb41529dc3bd4d8f8a240dbee0fff4e8",
-        "clientSecret": "bcca82f42930498aa385a8289fdf276b"
+  "TOKEN": "MTA1NDU5NDMxNDg0MTM1ODQzNg.GaM7v2.XYqJXJcSpDW8S3vs2qXYcviFFCRRgxkAjg-JqA",
+  "CLIENTID": "1054594314841358436",
+  "OWNER": ["452942692763172865"],
+  "NODES": [
+    {
+      "name": "CIVE",
+      "host": "54.38.198.23",
+      "port": 88,
+      "password": "stonemusicgay",
+      "secure": false
+    },
+    {
+      "name": "GOLDEN BOY",
+      "host": "54.38.198.24",
+      "port": 88,
+      "password": "stonemusicgay",
+      "secure": false
     }
+  ],
+  "SPOTIFY": {
+    "clientID": "cb41529dc3bd4d8f8a240dbee0fff4e8",
+    "clientSecret": "bcca82f42930498aa385a8289fdf276b"
+  }
 }
