@@ -64,7 +64,7 @@ node .
 # Autor
 <div align="center">
 
-| [<img src="https://github.com/Biganao.png?size=115" width=115><br><sub>@Biganao</sub>](https://github.com/matthael) |
+| [<img src="https://github.com/matthael.png?size=115" width=115><br><sub>@matthael</sub>](https://github.com/matthael) |
 | :-------------------------------------------------------------------------------------------------------------------: |
 
 </div>
